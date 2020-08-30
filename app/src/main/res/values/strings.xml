@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">চাষী ভাই</string>
+
+    <string name="login_title">চাষী ভাই</string>
+    <string name="login_sub_title">চাষী ভাই অ্যাপে আপনাকে স্বাগতম</string>
+    <string name="login_google">গুগলের মাধ্যমে প্রবেশ করুন</string>
+    <string name="login_email">ইমেইলের মাধ্যমে প্রবেশ করুন</string>
+    <string name="login_phone">মোবাইল নাম্বার দিয়ে প্রবেশ করুন</string>
+    <string name="weather_status">আবহাওয়া বার্তা</string>
+    <string name="season_title">ঋতু নির্বাচন করুন</string>
+
+    <string-array name="division_name">
+        <item>ঢাকা</item>
+        <item>সিলেট</item>
+        <item>রাজশাহী</item>
+        <item>রংপুর</item>
+        <item>চট্টগ্রাম</item>
+        <item>বরিশাল</item>
+        <item>খুলনা</item>
+        <item>ময়মনসিংহ</item>
+    </string-array>
+
+    <string-array name="season_button">
+        <item>গ্রীষ্মকাল</item>
+        <item>বর্ষাকাল</item>
+        <item>শরৎকাল</item>
+        <item>হেমন্তকাল</item>
+        <item>শীতকাল</item>
+        <item>বসন্তকাল</item>
+    </string-array>
+
+    <string-array name="summer_item">
+        <item>মূলা</item>
+        <item>ফুলকপি</item>
+        <item>শসা</item>
+        <item>পাতাকপি</item>
+        <item>কুহলরবী</item>
+        <item>টমেটো</item>
+        <item>বেগুন</item>
+        <item>জুচিনি</item>
+    </string-array>
+
+    <string-array name="rainy_item">
+        <item>ঢেঁড়স</item>
+        <item>টমেটো</item>
+        <item>গাজর</item>
+        <item>শিম</item>
+        <item>মূলা</item>
+        <item>আলু</item>
+        <item>কোলা বাদাম</item>
+        <item>তরমুজ</item>
+    </string-array>
+
+    <string-array name="autumn_item">
+        <item>আপেল</item>
+        <item>জাম</item>
+        <item>পাতাকপি</item>
+        <item>গাজর</item>
+        <item>ফুলকপি</item>
+        <item>পেয়াজ</item>
+        <item>কুমড়া</item>
+        <item>শালগম</item>
+    </string-array>
+
+    <string-array name="late_autumn_item">
+        <item>গাজর</item>
+        <item>ফুলকপি</item>
+        <item>পাতাকপি</item>
+        <item>ব্রুকলি</item>
+        <item>ব্রাসেলস স্পউস</item>
+        <item>কুমড়া</item>
+        <item>নাশপাতি</item>
+    </string-array>
+
+    <string-array name="winter_item">
+        <item>আপেল</item>
+        <item>ব্রাসেলস স্পউস</item>
+        <item>পাতাকপি</item>
+        <item>গাজর</item>
+        <item>ফুলকপি</item>
+        <item>আলু</item>
+        <item>কুমড়া</item>
+        <item>পেয়াজ</item>
+    </string-array>
+
+    <string-array name="spring_item">
+        <item>ব্রাসেলস স্পউস</item>
+        <item>গাজর</item>
+        <item>ফুলকপি</item>
+        <item>মূলা</item>
+        <item>পাতাকপি</item>
+        <item>পেয়াজ</item>
+        <item>আলু</item>
+    </string-array>
+
+
+    <string-array name="item_name">
+        <item>মূলা</item>
+        <item>ফুলকপি</item>
+        <item>শসা</item>
+        <item>পাতাকপি</item>
+        <item>কুহলরবী</item>
+        <item>টমেটো</item>
+        <item>বেগুন</item>
+        <item>পেয়াজ</item>
+        <item>আলু</item>
+        <item>গাজর</item>
+        <item>কুমড়া</item>
+        <item>নাশপাতি</item>
+        <item>শিম</item>
+    </string-array>
+
+    <string-array name="item_price">
+        <item>৩০৳/প্রতি কেজি</item>
+        <item>৪০৳/প্রতি কেজি</item>
+        <item>২০৳/প্রতি কেজি</item>
+        <item>২৫৳/প্রতি কেজি</item>
+        <item>৫০৳/প্রতি কেজি</item>
+        <item>৬০৳/প্রতি কেজি</item>
+        <item>৩০৳/প্রতি কেজি</item>
+        <item>১১০৳/প্রতি কেজি</item>
+        <item>৩৫৳/প্রতি কেজি</item>
+        <item>৪৫৳/প্রতি কেজি</item>
+        <item>৫৫৳/প্রতি কেজি</item>
+        <item>৮০৳/প্রতি কেজি</item>
+        <item>৫০৳/প্রতি কেজি</item>
+    </string-array>
+</resources>

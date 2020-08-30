@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.chasibhai.bel.chasibhai">
+
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application
+            android:allowBackup="true"
+            android:icon="@drawable/logo"
+            android:label="@string/app_name"
+            android:roundIcon="@drawable/logo"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <activity android:name=".HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".SummerActivity">
+        </activity>
+        <activity android:name=".RainyActivity">
+        </activity>
+        <activity android:name=".AutumnActivity">
+        </activity>
+        <activity android:name=".LateAutumnActivity">
+        </activity>
+        <activity android:name=".SpringActivity">
+        </activity>
+        <activity android:name=".WinterActivity">
+        </activity>
+        <activity android:name=".SummerDetailsActivity">
+        </activity>
+        <activity android:name=".RainyDetailsActivity">
+        </activity>
+        <activity android:name=".AutumnDetailsActivity">
+        </activity>
+        <activity android:name=".LateAutumnDetailsActivity">
+        </activity>
+        <activity android:name=".WinterDetailsActivity">
+        </activity>
+        <activity android:name=".SpringDetailsActivity">
+        </activity>
+        <activity android:name=".PriceActivity">
+        </activity>
+        <activity android:name=".WebActivity">
+        </activity>
+        <activity android:name=".FeedbackActivity">
+        </activity>
+    </application>
+
+</manifest>
